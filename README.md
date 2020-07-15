@@ -1,9 +1,10 @@
 How to use this automation scripts.
+===================================
 
 This script use Python as the programming language, with BDD framework (Gherkins), use python library called "Behave" and also Selenium.
 Then we should have to prepare several things to run this code properly.
-========================================================================================================================
 
+--------------------------------------------------------------------------------------------------------------------------------------------
 Question: What to test?
 Answer: I use Tiket.com desktop website (https://tiket.com/) for this automation test.
 
@@ -27,6 +28,7 @@ c. We have a registered email to tiket.com account. Also with verified mobilepho
 =======================================================================================================================
 
 PREPARATION STEPS.
+==================
 
 1. Install Python. We use python 3.8.3
 
@@ -73,6 +75,7 @@ https://www.jetbrains.com/pycharm/
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 RUN THE TEST.
+=============
 
 A. Open Terminal on the bottom side of the pycharm project. Type this command below and press enter.
 
